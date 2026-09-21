@@ -4,6 +4,8 @@ Vermelho
 Verde
 Violeta
 Roxo
+Unicórnio
 
 Bati o martelo no dedo
 Mas não doeu nada
+Encontrei um Unicórnio
