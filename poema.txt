@@ -2,5 +2,8 @@ Amarelo
 Azul
 Vermelho
 Verde
+Violeta
+Roxo
 
 Bati o martelo no dedo
+Mas não doeu nada
