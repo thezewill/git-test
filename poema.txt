@@ -1,5 +1,6 @@
 Amarelo
 Azul
 Vermelho
+Verde
 
 Bati o martelo no dedo
